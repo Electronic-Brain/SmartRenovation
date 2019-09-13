@@ -1,9 +1,12 @@
 # Smart-Renovation
 
 Smartly Update/Copy your important file(s)/Plugin(s) to your project from source.
+
 Email : support@electronicbrain.net 
 
+
 • **How to setup**
+
 Simply put 'Smart Renovation' folder in Editor folder in Unity.  
 
 # Contribution 
@@ -18,24 +21,35 @@ Electronic brain is a Game Studio based on Bangladesh. Currently, we have 2 Prog
 
 # Task List
 - [x] Initial Release 
+
 We will develop the following tasks. If any features need to be added, please mail to support@electronicbrain.net . 
 
 # Contributors 
- >Srejon Khan
+ >**Srejon Khan**
+ 
  Game Programmer, Electronic Brain 
- Using Unity over 4 years. Use C# and PHP,MySQL for backend. Worked on various client project and games. Worked as Assistant programmer in DR.Paedi and Lead Programmer in Last Breath.  
+ 
+Using Unity over 4 years. Use C# and PHP,MySQL for backend. Worked on various client project and games. Worked as Assistant programmer in DR.Paedi and Lead Programmer in Last Breath.  
 
- >Ashikur Rahman 
+ >**Ashikur Rahman** 
+ 
  Game Programmer, Electronic Brain 
- Using Unity over 3 years. Use C# and PHP,MySQL for backend.Worked on various client project and games. Successfull Lead Programmer in DR.Paedi and Assistant Programmer in Last Breath.  
+ 
+Using Unity over 3 years. Use C# and PHP,MySQL for backend.Worked on various client project and games. Successfull Lead Programmer in DR.Paedi and Assistant Programmer in Last Breath.  
 
- #Support
+# Support
 Donate us for developing any project without any trouble. We need more Programmers and Artists to work on various project and gifting something better to everyone. (All the money you donate is spent for Developing and Electronic Brain and not for any personal uses.)
+
 Support Us at Patreon: https://www.patreon.com/ElectronicBrain
+
 Youtube :https://www.youtube.com/electronicbrain/ 
+
 Website :http://electronicbrain.net/ 
+
 Facebook :https://facebook.com/electronicbrainpage
+
 Instagram:https://instagram.com/electronicbrainteam
+
 
 Have a Nice Day.
 
