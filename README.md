@@ -5,8 +5,7 @@ Smartly Update/Copy your important file(s)/Plugin(s) to your project from source
 Email : support@electronicbrain.net 
 
 
-• **How to setup**
-
+# How to setup
 Simply put 'Smart Renovation' folder in Editor folder in Unity.  
 
 # Contribution 
@@ -40,15 +39,15 @@ Using Unity over 3 years. Use C# and PHP,MySQL for backend.Worked on various cli
 # Support
 Donate us for developing any project without any trouble. We need more Programmers and Artists to work on various project and gifting something better to everyone. (All the money you donate is spent for Developing and Electronic Brain and not for any personal uses.)
 
-Support Us at Patreon: https://www.patreon.com/ElectronicBrain
+**Support Us at Patreon:** https://www.patreon.com/ElectronicBrain
 
-Youtube :https://www.youtube.com/electronicbrain/ 
+**Youtube:** https://www.youtube.com/electronicbrain/ 
 
-Website :http://electronicbrain.net/ 
+**Website:** http://electronicbrain.net/ 
 
-Facebook :https://facebook.com/electronicbrainpage
+**Facebook:** https://facebook.com/electronicbrainpage
 
-Instagram:https://instagram.com/electronicbrainteam
+**Instagram:** https://instagram.com/electronicbrainteam
 
 
 Have a Nice Day.
